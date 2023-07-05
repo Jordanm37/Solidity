@@ -1,0 +1,10 @@
+compiler:
+  solc:
+    version: 0.8.10
+networks:
+  goerli:
+    pool_addresses_provider: '0xc4dCB5126a3AfEd129BC3668Ea19285A9f56D15D'
+    weth_gateway_address: '0xd5B55D3Ed89FDa19124ceB5baB620328287b915d'
+wallets:
+  from_key: ${PRIVATE_KEY}
+dotenv: .env

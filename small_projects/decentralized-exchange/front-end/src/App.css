@@ -1,0 +1,39 @@
+.homepage {
+  background-image: url("./assets/bgIdeal.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.mask {
+  position: fixed;
+  display: block;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+.blockButton {
+  display: block;
+  width: 100%;
+  border: none;
+  padding: 10px 20px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+}
+.center {
+  background-image: url("./assets/stars.jpg");
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.provideLiquidityHeader {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}

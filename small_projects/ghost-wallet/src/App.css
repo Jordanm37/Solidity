@@ -1,0 +1,8 @@
+.homepage-bgimage {
+  height: 100vh;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
