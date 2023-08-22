@@ -1,0 +1,11 @@
+{
+  "name": "JELLY1",
+  "description": "The Jelly NFT Community Card!",
+  "image": "ipfs://QmYDhAztRyRkYc2VZX3EYAZk9xWnkT5KmdnLh713nubn3o",
+  "attributes": [
+    {
+      "trait_type": "circle",
+      "value": "Inner"
+    }
+  ]
+}
